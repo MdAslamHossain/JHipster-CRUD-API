@@ -43,6 +43,7 @@ public class CacheConfiguration {
             createCache(cm, com.crud.api.domain.User.class.getName());
             createCache(cm, com.crud.api.domain.Authority.class.getName());
             createCache(cm, com.crud.api.domain.User.class.getName() + ".authorities");
+            createCache(cm, com.crud.api.domain.Employee.class.getName());
             // jhipster-needle-ehcache-add-entry
         };
     }
