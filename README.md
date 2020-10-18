@@ -29,9 +29,12 @@ Ans : JHipster is an open-source project. It is combined by Bootstrap, Angular/R
 3. Default home page will arise
 4. Login as admin admin
 
-## API generation
+## API generation (Using command )
 
 1. run command : jhipster entity entityName (It is 'jhipster entity Employee' for me)
 2. Some questions will arise step-by-step
 3. we need to answer which as configuration we like
 4. Service, Service implementation, filturing and other options will arise. After creation api we can check by postman(I fyou use frontend then entity will be visible)
+
+## Custom API generation 
+1. 
